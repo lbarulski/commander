@@ -1,0 +1,17 @@
+#### TODO ####
+ - [ ] stworzenie interaktywnej powloki
+ - [ ] wpuszczanie userow po ssh
+ - [ ] tworzenie kont userow bazujac na loginach GH
+ - [ ] wpuszczanie do losowego poda z wybranego deploymentu/daemona/setu
+ - [ ] odpalanie predefiniowanej komendy na losowym podzie wybranego deploymentu/daemona/setu
+ - [ ] tworzenie poda wedlug specyfikacji i wpuszczanie usera
+ - [ ] tworzenie poda wedlug specyfikacji i odpalanie predefiniowanej komendy
+ - [ ] stworzenie cronjoba ktory bedzie aktualizowal klucze z GH
+ - [ ] stworzenie cronjoba ktory bedzie terminowal pody ktore przekroczyly swoj czas waznosci - jesli taki zostal wyspecyfikowany
+
+#### SPIKES ####
+ - [ ] rozkminic temat wrzucania plikow
+ - [ ] rozkminic temat tunelowania polaczen
+
+
+#### INTERACTIVE SHELL ####

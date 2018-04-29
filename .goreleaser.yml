@@ -1,0 +1,7 @@
+dockers:
+  -
+    image: lbarulski/commander
+    dockerfile: Dockerfile
+    tag_templates:
+    - "{{ .Tag }}"
+    - latest
